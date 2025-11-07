@@ -1,0 +1,18 @@
+# Core dependencies
+gTTS==2.5.3
+pydub==0.25.1
+transformers==4.45.2
+torch==2.8.0
+torchvision==0.23.0
+numpy==1.26.4
+scipy==1.13.1
+
+# Web interface 
+flask==3.0.3
+flask-cors==5.0.0
+
+# Utilities
+tqdm==4.66.5
+
+# Other dependencies
+typing-extensions==4.14.0

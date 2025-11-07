@@ -12,7 +12,6 @@ A Python-based emotion-aware text-to-speech (TTS) system using Google Cloud Text
   - [Batch Synthesis](#batch-synthesis)
 - [How It Works](#how-it-works)
   - [Emotion-to-Voice Mapping](#emotion-to-voice-mapping)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
